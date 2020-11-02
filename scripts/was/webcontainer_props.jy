@@ -1,0 +1,27 @@
+    targetServerName = sys.argv[0]
+    servers = AdminConfig.list("Server")
+    newline = java.lang.System.getProperty("line.seperator")
+    new_property_name1 = "MaxKeepAliveConnections"
+    new_property1 = '[[validationExpression ""] [name "MaxKeepAliveConnections"] [description "MaxKeepAliveConnections"] [value "45"] [required "false"]]'
+    new_property_name2 = "MaxKeepAliveRequests"
+    new_property2 = '[[validationExpression ""] [name "MaxKeepAliveRequests"] [description "MaxKeepAliveRequests"] [value "200"] [required "false"]]'
+    for serverID in servers.split(newline):
+      if serverID.find(targetServerName) == 0:
+        print serverID
+        webContainerID = AdminConfig.list("WebContainer", serverID)
+        print webContainerID
+        foundExisting = 0
+        webContainerPropList = AdminConfig.list("Property", webContainerID)
+        for webContainerProp in webContainerPropList.split(newline):
+          property_name = AdminConfig.showAttribute(webContainerProp, "name")
+          property_value = AdminConfig.showAttribute(webContainerProp, "value")
+          property_description = AdminConfig.showAttribute(webContainerProp, "description")
+          if property_name == new_property_name1 or property_name == new_property_name2:
+            print "Removing existing property " + webContainerProp
+            AdminConfig.remove(webContainerProp)
+
+        print "Creating property " + new_property_name1
+        AdminConfig.create("Property", webContainerID, new_property1)
+        print "Creating property " + new_property_name2
+        AdminConfig.create("Property", webContainerID, new_property2)
+        AdminConfig.save()

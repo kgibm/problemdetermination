@@ -1,0 +1,718 @@
+[Wed Jan 08 16:59:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 16:59:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 16:59:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 16:59:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:00:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:00:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:00:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:00:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:01:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:01:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:01:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:01:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:02:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:02:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:02:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:02:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:03:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:03:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:03:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:03:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:04:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:04:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:04:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:04:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:05:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:05:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:05:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:05:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:06:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:06:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:06:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:06:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:07:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:07:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:07:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:07:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:08:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:08:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:08:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:08:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:09:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:09:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:09:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:09:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:10:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:10:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:10:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:10:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:11:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:11:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:11:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:11:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:12:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:12:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:12:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:12:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:13:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:13:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:13:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:13:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:14:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:14:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:14:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:14:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:15:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:15:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:15:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:15:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:16:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:16:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:16:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:16:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:17:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:17:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:17:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:17:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:18:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:18:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:18:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:18:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:19:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:19:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:19:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:19:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:20:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:20:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:20:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:20:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:21:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:21:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:21:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:21:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:22:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:22:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:22:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:22:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:23:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:23:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:23:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:23:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:24:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:24:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:24:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:24:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:25:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:25:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:25:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:25:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:26:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:26:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:26:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:26:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:27:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:27:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:27:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:27:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:28:26 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:28:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:28:56 2014] [notice] mpmstats: rdy 48 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:28:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:29:26 2014] [notice] mpmstats: rdy 26 bsy 100 rd 0 wr 100 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:29:26 2014] [notice] mpmstats: bsy: 100 in mod_was_ap22_http.c
+[Wed Jan 08 17:29:56 2014] [notice] mpmstats: rdy 78 bsy 223 rd 0 wr 131 ka 92 log 0 dns 0 cls 0
+[Wed Jan 08 17:29:56 2014] [notice] mpmstats: bsy: 131 in mod_was_ap22_http.c
+[Wed Jan 08 17:30:01 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:30:02 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:30:03 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:30:04 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:30:05 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:30:06 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:30:07 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:30:16 2014] [debug] worker.c(1366): taking over scoreboard slot from 7012400 (quiescing)
+[Wed Jan 08 17:30:26 2014] [notice] mpmstats: rdy 35 bsy 93 rd 0 wr 46 ka 43 log 0 dns 0 cls 4
+[Wed Jan 08 17:30:26 2014] [notice] mpmstats: bsy: 46 in mod_was_ap22_http.c
+[Wed Jan 08 17:30:56 2014] [notice] mpmstats: rdy 31 bsy 172 rd 0 wr 172 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:30:56 2014] [notice] mpmstats: bsy: 172 in mod_was_ap22_http.c
+[Wed Jan 08 17:31:26 2014] [notice] mpmstats: rdy 50 bsy 178 rd 0 wr 176 ka 2 log 0 dns 0 cls 0
+[Wed Jan 08 17:31:26 2014] [notice] mpmstats: bsy: 176 in mod_was_ap22_http.c
+[Wed Jan 08 17:31:56 2014] [notice] mpmstats: rdy 60 bsy 134 rd 0 wr 123 ka 11 log 0 dns 0 cls 0
+[Wed Jan 08 17:31:56 2014] [notice] mpmstats: bsy: 123 in mod_was_ap22_http.c
+[Wed Jan 08 17:31:58 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:32:09 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:32:11 2014] [debug] worker.c(1366): taking over scoreboard slot from 4128958 (quiescing)
+[Wed Jan 08 17:32:11 2014] [debug] worker.c(1366): taking over scoreboard slot from 9240622 (quiescing)
+[Wed Jan 08 17:32:26 2014] [notice] mpmstats: rdy 35 bsy 43 rd 0 wr 33 ka 10 log 0 dns 0 cls 0
+[Wed Jan 08 17:32:26 2014] [notice] mpmstats: bsy: 33 in mod_was_ap22_http.c
+[Wed Jan 08 17:32:56 2014] [notice] mpmstats: rdy 48 bsy 55 rd 0 wr 7 ka 47 log 0 dns 0 cls 1
+[Wed Jan 08 17:32:56 2014] [notice] mpmstats: bsy: 7 in mod_was_ap22_http.c
+[Wed Jan 08 17:33:26 2014] [notice] mpmstats: rdy 56 bsy 47 rd 0 wr 6 ka 41 log 0 dns 0 cls 0
+[Wed Jan 08 17:33:26 2014] [notice] mpmstats: bsy: 6 in mod_was_ap22_http.c
+[Wed Jan 08 17:33:56 2014] [notice] mpmstats: rdy 58 bsy 45 rd 0 wr 3 ka 42 log 0 dns 0 cls 0
+[Wed Jan 08 17:33:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:34:26 2014] [notice] mpmstats: rdy 62 bsy 41 rd 0 wr 5 ka 36 log 0 dns 0 cls 0
+[Wed Jan 08 17:34:26 2014] [notice] mpmstats: bsy: 5 in mod_was_ap22_http.c
+[Wed Jan 08 17:34:56 2014] [notice] mpmstats: rdy 65 bsy 38 rd 0 wr 4 ka 34 log 0 dns 0 cls 0
+[Wed Jan 08 17:34:56 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 17:35:26 2014] [notice] mpmstats: rdy 63 bsy 40 rd 0 wr 8 ka 32 log 0 dns 0 cls 0
+[Wed Jan 08 17:35:26 2014] [notice] mpmstats: bsy: 8 in mod_was_ap22_http.c
+[Wed Jan 08 17:35:56 2014] [notice] mpmstats: rdy 65 bsy 38 rd 0 wr 4 ka 34 log 0 dns 0 cls 0
+[Wed Jan 08 17:35:56 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 17:36:26 2014] [notice] mpmstats: rdy 69 bsy 34 rd 0 wr 7 ka 27 log 0 dns 0 cls 0
+[Wed Jan 08 17:36:26 2014] [notice] mpmstats: bsy: 7 in mod_was_ap22_http.c
+[Wed Jan 08 17:36:56 2014] [notice] mpmstats: rdy 72 bsy 31 rd 0 wr 4 ka 27 log 0 dns 0 cls 0
+[Wed Jan 08 17:36:56 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 17:37:10 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 17:37:26 2014] [notice] mpmstats: rdy 74 bsy 29 rd 0 wr 4 ka 25 log 0 dns 0 cls 0
+[Wed Jan 08 17:37:26 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 17:37:56 2014] [notice] mpmstats: rdy 71 bsy 7 rd 0 wr 4 ka 3 log 0 dns 0 cls 0
+[Wed Jan 08 17:37:56 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 17:38:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:38:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:38:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:38:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:39:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:39:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:39:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:39:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:40:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:40:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:40:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:40:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:41:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:41:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:41:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:41:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:42:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:42:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:42:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:42:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:43:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:43:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:43:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:43:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:44:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:44:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:44:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:44:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:45:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:45:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:45:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:45:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:46:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:46:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:46:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:46:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:47:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:47:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:47:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:47:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:48:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:48:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:48:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:48:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:49:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:49:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:49:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:49:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:50:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:50:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:50:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:50:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:51:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:51:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:51:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:51:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:52:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:52:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:52:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:52:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:53:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:53:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:53:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:53:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:54:26 2014] [notice] mpmstats: rdy 72 bsy 6 rd 0 wr 3 ka 3 log 0 dns 0 cls 0
+[Wed Jan 08 17:54:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:54:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:54:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:55:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:55:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:55:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:55:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:56:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:56:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:56:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:56:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:57:26 2014] [notice] mpmstats: rdy 74 bsy 4 rd 0 wr 3 ka 0 log 0 dns 0 cls 1
+[Wed Jan 08 17:57:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:57:56 2014] [notice] mpmstats: rdy 74 bsy 4 rd 0 wr 3 ka 0 log 0 dns 0 cls 1
+[Wed Jan 08 17:57:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:58:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:58:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:58:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:58:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:59:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:59:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 17:59:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 17:59:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:00:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:00:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:00:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:00:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:01:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:01:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:01:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:01:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:02:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:02:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:02:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:02:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:03:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:03:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:03:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:03:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:04:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:04:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:04:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:04:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:05:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:05:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:05:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:05:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:06:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:06:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:06:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:06:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:07:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:07:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:07:56 2014] [notice] mpmstats: rdy 73 bsy 5 rd 0 wr 3 ka 2 log 0 dns 0 cls 0
+[Wed Jan 08 18:07:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:08:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:08:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:08:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:08:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:09:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:09:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:09:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:09:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:10:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:10:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:10:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:10:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:11:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:11:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:11:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:11:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:12:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:12:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:12:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:12:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:13:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:13:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:13:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:13:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:14:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:14:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:14:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:14:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:15:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:15:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:15:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:15:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:16:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:16:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:16:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:16:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:17:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:17:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:17:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:17:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:18:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:18:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:18:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:18:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:19:26 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:19:26 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:19:56 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:19:56 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:20:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:20:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:20:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:20:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:21:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:21:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:21:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:21:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:22:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:22:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:22:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:22:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:23:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:23:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:23:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:23:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:24:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:24:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:24:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:24:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:25:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:25:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:25:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:25:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:26:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:26:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:26:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:26:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:27:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:27:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:27:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:27:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:28:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:28:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:28:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:28:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:29:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:29:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:29:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:29:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:30:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:30:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:30:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:30:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:31:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:31:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:31:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:31:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:32:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:32:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:32:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:32:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:33:27 2014] [notice] mpmstats: rdy 73 bsy 5 rd 0 wr 3 ka 1 log 0 dns 0 cls 1
+[Wed Jan 08 18:33:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:33:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:33:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:34:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:34:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:34:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:34:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:35:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:35:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:35:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:35:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:36:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:36:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:36:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:36:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:37:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:37:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:37:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:37:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:38:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:38:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:38:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:38:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:39:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:39:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:39:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:39:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:40:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:40:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:40:57 2014] [notice] mpmstats: rdy 74 bsy 4 rd 0 wr 3 ka 1 log 0 dns 0 cls 0
+[Wed Jan 08 18:40:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:41:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:41:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:41:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:41:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:42:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:42:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:42:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:42:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:43:27 2014] [notice] mpmstats: rdy 74 bsy 4 rd 0 wr 3 ka 1 log 0 dns 0 cls 0
+[Wed Jan 08 18:43:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:43:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:43:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:44:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:44:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:44:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:44:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:45:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:45:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:45:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:45:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:46:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:46:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:46:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:46:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:47:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:47:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:47:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:47:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:48:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:48:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:48:57 2014] [notice] mpmstats: rdy 73 bsy 5 rd 0 wr 4 ka 1 log 0 dns 0 cls 0
+[Wed Jan 08 18:48:57 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 18:49:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:49:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:49:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:49:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:50:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:50:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:50:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:50:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:51:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:51:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:51:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:51:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:52:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:52:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:52:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:52:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:53:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:53:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:53:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:53:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:54:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:54:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:54:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:54:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:55:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:55:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:55:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:55:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:56:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:56:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:56:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:56:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:57:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:57:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:57:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:57:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:58:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:58:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:58:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:58:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:59:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:59:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 18:59:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 18:59:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:00:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:00:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:00:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:00:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:01:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:01:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:01:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:01:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:02:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:02:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:02:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:02:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:03:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:03:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:03:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:03:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:04:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:04:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:04:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:04:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:05:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:05:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:05:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:05:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:06:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:06:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:06:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:06:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:07:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:07:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:07:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:07:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:08:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:08:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:08:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:08:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:09:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:09:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:09:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:09:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:10:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:10:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:10:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:10:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:11:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:11:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:11:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:11:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:12:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:12:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:12:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:12:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:13:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:13:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:13:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:13:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:14:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:14:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:14:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:14:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:15:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:15:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:15:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:15:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:16:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:16:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:16:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:16:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:17:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:17:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:17:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:17:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:18:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:18:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:18:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:18:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:19:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:19:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:19:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:19:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:20:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:20:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:20:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:20:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:21:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:21:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:21:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:21:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:22:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:22:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:22:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:22:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:23:27 2014] [notice] mpmstats: rdy 69 bsy 9 rd 0 wr 9 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:23:27 2014] [notice] mpmstats: bsy: 9 in mod_was_ap22_http.c
+[Wed Jan 08 19:23:57 2014] [notice] mpmstats: rdy 47 bsy 56 rd 0 wr 36 ka 20 log 0 dns 0 cls 0
+[Wed Jan 08 19:23:57 2014] [notice] mpmstats: bsy: 36 in mod_was_ap22_http.c
+[Wed Jan 08 19:24:27 2014] [notice] mpmstats: rdy 53 bsy 50 rd 0 wr 7 ka 43 log 0 dns 0 cls 0
+[Wed Jan 08 19:24:27 2014] [notice] mpmstats: bsy: 7 in mod_was_ap22_http.c
+[Wed Jan 08 19:24:57 2014] [notice] mpmstats: rdy 27 bsy 101 rd 0 wr 99 ka 2 log 0 dns 0 cls 0
+[Wed Jan 08 19:24:57 2014] [notice] mpmstats: bsy: 99 in mod_was_ap22_http.c
+[Wed Jan 08 19:25:27 2014] [notice] mpmstats: rdy 33 bsy 220 rd 0 wr 215 ka 5 log 0 dns 0 cls 0
+[Wed Jan 08 19:25:27 2014] [notice] mpmstats: bsy: 215 in mod_was_ap22_http.c
+[Wed Jan 08 19:25:50 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 19:25:51 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 19:25:53 2014] [debug] worker.c(1095): the listener thread didn't exit
+[Wed Jan 08 19:25:57 2014] [notice] mpmstats: rdy 36 bsy 149 rd 0 wr 139 ka 10 log 0 dns 0 cls 0
+[Wed Jan 08 19:25:57 2014] [notice] mpmstats: bsy: 139 in mod_was_ap22_http.c
+[Wed Jan 08 19:26:27 2014] [notice] mpmstats: rdy 40 bsy 139 rd 0 wr 134 ka 5 log 0 dns 0 cls 0
+[Wed Jan 08 19:26:27 2014] [notice] mpmstats: bsy: 134 in mod_was_ap22_http.c
+[Wed Jan 08 19:26:57 2014] [notice] mpmstats: rdy 37 bsy 141 rd 0 wr 97 ka 44 log 0 dns 0 cls 0
+[Wed Jan 08 19:26:57 2014] [notice] mpmstats: bsy: 97 in mod_was_ap22_http.c
+[Wed Jan 08 19:27:27 2014] [notice] mpmstats: rdy 51 bsy 127 rd 0 wr 26 ka 96 log 0 dns 0 cls 5
+[Wed Jan 08 19:27:27 2014] [notice] mpmstats: bsy: 26 in mod_was_ap22_http.c
+[Wed Jan 08 19:27:57 2014] [notice] mpmstats: rdy 61 bsy 67 rd 2 wr 6 ka 57 log 0 dns 0 cls 2
+[Wed Jan 08 19:27:57 2014] [notice] mpmstats: bsy: 6 in mod_was_ap22_http.c
+[Wed Jan 08 19:28:27 2014] [notice] mpmstats: rdy 69 bsy 59 rd 0 wr 5 ka 51 log 0 dns 0 cls 3
+[Wed Jan 08 19:28:27 2014] [notice] mpmstats: bsy: 5 in mod_was_ap22_http.c
+[Wed Jan 08 19:28:57 2014] [notice] mpmstats: rdy 49 bsy 29 rd 0 wr 4 ka 24 log 0 dns 0 cls 1
+[Wed Jan 08 19:28:57 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 19:29:27 2014] [notice] mpmstats: rdy 47 bsy 31 rd 0 wr 4 ka 27 log 0 dns 0 cls 0
+[Wed Jan 08 19:29:27 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 19:29:57 2014] [notice] mpmstats: rdy 45 bsy 33 rd 0 wr 5 ka 28 log 0 dns 0 cls 0
+[Wed Jan 08 19:29:57 2014] [notice] mpmstats: bsy: 5 in mod_was_ap22_http.c
+[Wed Jan 08 19:30:27 2014] [notice] mpmstats: rdy 50 bsy 28 rd 0 wr 6 ka 22 log 0 dns 0 cls 0
+[Wed Jan 08 19:30:27 2014] [notice] mpmstats: bsy: 6 in mod_was_ap22_http.c
+[Wed Jan 08 19:30:57 2014] [notice] mpmstats: rdy 52 bsy 26 rd 0 wr 8 ka 18 log 0 dns 0 cls 0
+[Wed Jan 08 19:30:57 2014] [notice] mpmstats: bsy: 8 in mod_was_ap22_http.c
+[Wed Jan 08 19:31:27 2014] [notice] mpmstats: rdy 60 bsy 18 rd 0 wr 5 ka 13 log 0 dns 0 cls 0
+[Wed Jan 08 19:31:27 2014] [notice] mpmstats: bsy: 5 in mod_was_ap22_http.c
+[Wed Jan 08 19:31:57 2014] [notice] mpmstats: rdy 66 bsy 12 rd 0 wr 3 ka 9 log 0 dns 0 cls 0
+[Wed Jan 08 19:31:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:32:27 2014] [notice] mpmstats: rdy 67 bsy 11 rd 0 wr 4 ka 7 log 0 dns 0 cls 0
+[Wed Jan 08 19:32:27 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 19:32:57 2014] [notice] mpmstats: rdy 69 bsy 9 rd 0 wr 3 ka 6 log 0 dns 0 cls 0
+[Wed Jan 08 19:32:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:33:27 2014] [notice] mpmstats: rdy 68 bsy 10 rd 0 wr 4 ka 6 log 0 dns 0 cls 0
+[Wed Jan 08 19:33:27 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 19:33:57 2014] [notice] mpmstats: rdy 68 bsy 10 rd 0 wr 5 ka 5 log 0 dns 0 cls 0
+[Wed Jan 08 19:33:57 2014] [notice] mpmstats: bsy: 5 in mod_was_ap22_http.c
+[Wed Jan 08 19:34:27 2014] [notice] mpmstats: rdy 66 bsy 12 rd 0 wr 6 ka 6 log 0 dns 0 cls 0
+[Wed Jan 08 19:34:27 2014] [notice] mpmstats: bsy: 6 in mod_was_ap22_http.c
+[Wed Jan 08 19:34:57 2014] [notice] mpmstats: rdy 68 bsy 10 rd 0 wr 3 ka 7 log 0 dns 0 cls 0
+[Wed Jan 08 19:34:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:35:27 2014] [notice] mpmstats: rdy 67 bsy 11 rd 0 wr 6 ka 5 log 0 dns 0 cls 0
+[Wed Jan 08 19:35:27 2014] [notice] mpmstats: bsy: 6 in mod_was_ap22_http.c
+[Wed Jan 08 19:35:57 2014] [notice] mpmstats: rdy 70 bsy 8 rd 0 wr 5 ka 3 log 0 dns 0 cls 0
+[Wed Jan 08 19:35:57 2014] [notice] mpmstats: bsy: 5 in mod_was_ap22_http.c
+[Wed Jan 08 19:36:27 2014] [notice] mpmstats: rdy 67 bsy 11 rd 0 wr 4 ka 7 log 0 dns 0 cls 0
+[Wed Jan 08 19:36:27 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 19:36:57 2014] [notice] mpmstats: rdy 69 bsy 9 rd 0 wr 3 ka 6 log 0 dns 0 cls 0
+[Wed Jan 08 19:36:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:37:27 2014] [notice] mpmstats: rdy 70 bsy 8 rd 0 wr 3 ka 5 log 0 dns 0 cls 0
+[Wed Jan 08 19:37:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:37:57 2014] [notice] mpmstats: rdy 64 bsy 14 rd 0 wr 3 ka 11 log 0 dns 0 cls 0
+[Wed Jan 08 19:37:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:38:27 2014] [notice] mpmstats: rdy 68 bsy 10 rd 0 wr 4 ka 6 log 0 dns 0 cls 0
+[Wed Jan 08 19:38:27 2014] [notice] mpmstats: bsy: 4 in mod_was_ap22_http.c
+[Wed Jan 08 19:38:57 2014] [notice] mpmstats: rdy 70 bsy 8 rd 0 wr 3 ka 5 log 0 dns 0 cls 0
+[Wed Jan 08 19:38:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:39:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:39:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:39:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:39:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:40:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:40:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:40:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:40:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:41:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:41:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:41:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:41:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:42:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:42:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:42:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:42:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:43:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:43:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:43:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:43:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:44:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:44:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:44:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:44:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:45:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:45:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:45:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:45:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:46:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:46:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:46:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:46:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:47:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:47:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:47:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:47:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:48:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:48:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:48:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:48:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:49:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:49:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:49:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:49:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:50:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:50:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:50:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:50:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:51:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:51:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:51:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:51:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:52:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:52:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:52:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:52:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:53:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:53:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:53:57 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:53:57 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c
+[Wed Jan 08 19:54:27 2014] [notice] mpmstats: rdy 75 bsy 3 rd 0 wr 3 ka 0 log 0 dns 0 cls 0
+[Wed Jan 08 19:54:27 2014] [notice] mpmstats: bsy: 3 in mod_was_ap22_http.c

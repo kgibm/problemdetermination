@@ -1,0 +1,591 @@
+00001000-00002000 rw-p 00001000 00:00 0 
+00400000-0040c000 r-xp 00000000 fd:00 15603446                           /opt/IBM/WebSphere/AppServer/java/jre/bin/java
+0050b000-0050c000 rw-p 0000b000 fd:00 15603446                           /opt/IBM/WebSphere/AppServer/java/jre/bin/java
+192b8000-1da3b000 rw-p 192b8000 00:00 0                                  [heap]
+40121000-40122000 ---p 40121000 00:00 0 
+40122000-40162000 rwxp 40122000 00:00 0 
+401b0000-401b1000 ---p 401b0000 00:00 0 
+401b1000-401f1000 rwxp 401b1000 00:00 0 
+403ab000-403ac000 ---p 403ab000 00:00 0 
+403ac000-403b3000 rwxp 403ac000 00:00 0 
+4053f000-40540000 ---p 4053f000 00:00 0 
+40540000-40580000 rwxp 40540000 00:00 0 
+40580000-40581000 ---p 40580000 00:00 0 
+40581000-405c1000 rwxp 40581000 00:00 0 
+405c1000-405c2000 ---p 405c1000 00:00 0 
+405c2000-40602000 rwxp 405c2000 00:00 0 
+4066b000-4066c000 ---p 4066b000 00:00 0 
+4066c000-406ac000 rwxp 4066c000 00:00 0 
+406ac000-406ad000 ---p 406ac000 00:00 0 
+406ad000-406ed000 rwxp 406ad000 00:00 0 
+406ed000-406ee000 ---p 406ed000 00:00 0 
+406ee000-4072e000 rwxp 406ee000 00:00 0 
+40847000-40848000 ---p 40847000 00:00 0 
+40848000-40888000 rwxp 40848000 00:00 0 
+40888000-40889000 ---p 40888000 00:00 0 
+40889000-408c9000 rwxp 40889000 00:00 0 
+40947000-40948000 ---p 40947000 00:00 0 
+40948000-40988000 rwxp 40948000 00:00 0 
+40a5d000-40a5e000 ---p 40a5d000 00:00 0 
+40a5e000-40a9e000 rwxp 40a5e000 00:00 0 
+40ace000-40acf000 ---p 40ace000 00:00 0 
+40acf000-40b0f000 rwxp 40acf000 00:00 0 
+40bc1000-40bc2000 ---p 40bc1000 00:00 0 
+40bc2000-40c02000 rwxp 40bc2000 00:00 0 
+40c25000-40c26000 ---p 40c25000 00:00 0 
+40c26000-40c66000 rwxp 40c26000 00:00 0 
+40c9f000-40ca0000 ---p 40c9f000 00:00 0 
+40ca0000-40ce0000 rwxp 40ca0000 00:00 0 
+40ce0000-40ce1000 ---p 40ce0000 00:00 0 
+40ce1000-40d21000 rwxp 40ce1000 00:00 0 
+40d24000-40d25000 ---p 40d24000 00:00 0 
+40d25000-40d65000 rwxp 40d25000 00:00 0 
+40d93000-40d94000 ---p 40d93000 00:00 0 
+40d94000-40dd4000 rwxp 40d94000 00:00 0 
+40dd4000-40dd5000 ---p 40dd4000 00:00 0 
+40dd5000-40e15000 rwxp 40dd5000 00:00 0 
+40e15000-40e16000 ---p 40e15000 00:00 0 
+40e16000-40e56000 rwxp 40e16000 00:00 0 
+40f38000-40f39000 ---p 40f38000 00:00 0 
+40f39000-40f59000 rwxp 40f39000 00:00 0 
+40fa8000-40fa9000 ---p 40fa8000 00:00 0 
+40fa9000-40fe9000 rwxp 40fa9000 00:00 0 
+4102e000-4102f000 ---p 4102e000 00:00 0 
+4102f000-4106f000 rwxp 4102f000 00:00 0 
+4106f000-41070000 ---p 4106f000 00:00 0 
+41070000-410b0000 rwxp 41070000 00:00 0 
+4126c000-4126d000 ---p 4126c000 00:00 0 
+4126d000-412ad000 rwxp 4126d000 00:00 0 
+412ad000-412ae000 ---p 412ad000 00:00 0 
+412ae000-412ee000 rwxp 412ae000 00:00 0 
+412ee000-412ef000 ---p 412ee000 00:00 0 
+412ef000-4132f000 rwxp 412ef000 00:00 0 
+4132f000-41330000 ---p 4132f000 00:00 0 
+41330000-41370000 rwxp 41330000 00:00 0 
+4138c000-4138d000 ---p 4138c000 00:00 0 
+4138d000-413cd000 rwxp 4138d000 00:00 0 
+413cd000-413ce000 ---p 413cd000 00:00 0 
+413ce000-4140e000 rwxp 413ce000 00:00 0 
+4140e000-4140f000 ---p 4140e000 00:00 0 
+4140f000-4144f000 rwxp 4140f000 00:00 0 
+4144f000-41450000 ---p 4144f000 00:00 0 
+41450000-41490000 rwxp 41450000 00:00 0 
+41490000-41491000 ---p 41490000 00:00 0 
+41491000-414d1000 rwxp 41491000 00:00 0 
+4150b000-4150c000 ---p 4150b000 00:00 0 
+4150c000-41f0c000 rwxp 4150c000 00:00 0 
+41f0c000-41f0d000 ---p 41f0c000 00:00 0 
+41f0d000-41f4d000 rwxp 41f0d000 00:00 0 
+41f50000-41f51000 ---p 41f50000 00:00 0 
+41f51000-41f91000 rwxp 41f51000 00:00 0 
+41f91000-41f92000 ---p 41f91000 00:00 0 
+41f92000-42092000 rwxp 41f92000 00:00 0 
+42092000-42093000 ---p 42092000 00:00 0 
+42093000-420d3000 rwxp 42093000 00:00 0 
+420d3000-420d4000 ---p 420d3000 00:00 0 
+420d4000-42114000 rwxp 420d4000 00:00 0 
+42114000-42115000 ---p 42114000 00:00 0 
+42115000-42155000 rwxp 42115000 00:00 0 
+42155000-42156000 ---p 42155000 00:00 0 
+42156000-42196000 rwxp 42156000 00:00 0 
+42196000-42197000 ---p 42196000 00:00 0 
+42197000-421d7000 rwxp 42197000 00:00 0 
+421d7000-421d8000 ---p 421d7000 00:00 0 
+421d8000-42218000 rwxp 421d8000 00:00 0 
+42218000-42219000 ---p 42218000 00:00 0 
+42219000-42c19000 rwxp 42219000 00:00 0 
+42c19000-42c1a000 ---p 42c19000 00:00 0 
+42c1a000-42c5a000 rwxp 42c1a000 00:00 0 
+42c5a000-42c5b000 ---p 42c5a000 00:00 0 
+42c5b000-42c9b000 rwxp 42c5b000 00:00 0 
+42c9b000-42c9c000 ---p 42c9b000 00:00 0 
+42c9c000-42cdc000 rwxp 42c9c000 00:00 0 
+42cdc000-42cdd000 ---p 42cdc000 00:00 0 
+42cdd000-42d1d000 rwxp 42cdd000 00:00 0 
+42d1d000-42d1e000 ---p 42d1d000 00:00 0 
+42d1e000-42d5e000 rwxp 42d1e000 00:00 0 
+42d5e000-42d5f000 ---p 42d5e000 00:00 0 
+42d5f000-42d9f000 rwxp 42d5f000 00:00 0 
+42d9f000-42da0000 ---p 42d9f000 00:00 0 
+42da0000-42de0000 rwxp 42da0000 00:00 0 
+42de0000-42de1000 ---p 42de0000 00:00 0 
+42de1000-42e21000 rwxp 42de1000 00:00 0 
+42e21000-42e22000 ---p 42e21000 00:00 0 
+42e22000-42e62000 rwxp 42e22000 00:00 0 
+42e62000-42e63000 ---p 42e62000 00:00 0 
+42e63000-42ea3000 rwxp 42e63000 00:00 0 
+42ea3000-42ea4000 ---p 42ea3000 00:00 0 
+42ea4000-42ee4000 rwxp 42ea4000 00:00 0 
+42ee4000-42ee5000 ---p 42ee4000 00:00 0 
+42ee5000-42f25000 rwxp 42ee5000 00:00 0 
+42f25000-42f26000 ---p 42f25000 00:00 0 
+42f26000-42f66000 rwxp 42f26000 00:00 0 
+42f66000-42f67000 ---p 42f66000 00:00 0 
+42f67000-42fa7000 rwxp 42f67000 00:00 0 
+42fa7000-42fa8000 ---p 42fa7000 00:00 0 
+42fa8000-42fe8000 rwxp 42fa8000 00:00 0 
+42fe8000-42fe9000 ---p 42fe8000 00:00 0 
+42fe9000-43029000 rwxp 42fe9000 00:00 0 
+43029000-4302a000 ---p 43029000 00:00 0 
+4302a000-4306a000 rwxp 4302a000 00:00 0 
+4306a000-4306b000 ---p 4306a000 00:00 0 
+4306b000-430ab000 rwxp 4306b000 00:00 0 
+430ab000-430ac000 ---p 430ab000 00:00 0 
+430ac000-430ec000 rwxp 430ac000 00:00 0 
+430ec000-430ed000 ---p 430ec000 00:00 0 
+430ed000-4312d000 rwxp 430ed000 00:00 0 
+4312d000-4312e000 ---p 4312d000 00:00 0 
+4312e000-4316e000 rwxp 4312e000 00:00 0 
+4316e000-4316f000 ---p 4316e000 00:00 0 
+4316f000-431af000 rwxp 4316f000 00:00 0 
+431af000-431b0000 ---p 431af000 00:00 0 
+431b0000-431f0000 rwxp 431b0000 00:00 0 
+431f0000-431f1000 ---p 431f0000 00:00 0 
+431f1000-43231000 rwxp 431f1000 00:00 0 
+43231000-43232000 ---p 43231000 00:00 0 
+43232000-43272000 rwxp 43232000 00:00 0 
+43272000-43273000 ---p 43272000 00:00 0 
+43273000-432b3000 rwxp 43273000 00:00 0 
+432b3000-432b4000 ---p 432b3000 00:00 0 
+432b4000-432f4000 rwxp 432b4000 00:00 0 
+432f4000-432f5000 ---p 432f4000 00:00 0 
+432f5000-43335000 rwxp 432f5000 00:00 0 
+43335000-43336000 ---p 43335000 00:00 0 
+43336000-43376000 rwxp 43336000 00:00 0 
+43376000-43377000 ---p 43376000 00:00 0 
+43377000-433b7000 rwxp 43377000 00:00 0 
+433b7000-433b8000 ---p 433b7000 00:00 0 
+433b8000-433f8000 rwxp 433b8000 00:00 0 
+433f8000-433f9000 ---p 433f8000 00:00 0 
+433f9000-43439000 rwxp 433f9000 00:00 0 
+43439000-4343a000 ---p 43439000 00:00 0 
+4343a000-4347a000 rwxp 4343a000 00:00 0 
+4347a000-4347b000 ---p 4347a000 00:00 0 
+4347b000-434bb000 rwxp 4347b000 00:00 0 
+434bb000-434bc000 ---p 434bb000 00:00 0 
+434bc000-434fc000 rwxp 434bc000 00:00 0 
+434fc000-434fd000 ---p 434fc000 00:00 0 
+434fd000-4353d000 rwxp 434fd000 00:00 0 
+4353d000-4353e000 ---p 4353d000 00:00 0 
+4353e000-4357e000 rwxp 4353e000 00:00 0 
+4357e000-4357f000 ---p 4357e000 00:00 0 
+4357f000-435bf000 rwxp 4357f000 00:00 0 
+435bf000-435c0000 ---p 435bf000 00:00 0 
+435c0000-43600000 rwxp 435c0000 00:00 0 
+43600000-43601000 ---p 43600000 00:00 0 
+43601000-43641000 rwxp 43601000 00:00 0 
+43641000-43642000 ---p 43641000 00:00 0 
+43642000-43682000 rwxp 43642000 00:00 0 
+43682000-43683000 ---p 43682000 00:00 0 
+43683000-436c3000 rwxp 43683000 00:00 0 
+436c3000-436c4000 ---p 436c3000 00:00 0 
+436c4000-43704000 rwxp 436c4000 00:00 0 
+43704000-43705000 ---p 43704000 00:00 0 
+43705000-43745000 rwxp 43705000 00:00 0 
+43745000-43746000 ---p 43745000 00:00 0 
+43746000-43786000 rwxp 43746000 00:00 0 
+43786000-43787000 ---p 43786000 00:00 0 
+43787000-437c7000 rwxp 43787000 00:00 0 
+437c7000-437c8000 ---p 437c7000 00:00 0 
+437c8000-43808000 rwxp 437c8000 00:00 0 
+43808000-43809000 ---p 43808000 00:00 0 
+43809000-43849000 rwxp 43809000 00:00 0 
+43849000-4384a000 ---p 43849000 00:00 0 
+4384a000-4388a000 rwxp 4384a000 00:00 0 
+4388a000-4388b000 ---p 4388a000 00:00 0 
+4388b000-438cb000 rwxp 4388b000 00:00 0 
+438cb000-438cc000 ---p 438cb000 00:00 0 
+438cc000-4390c000 rwxp 438cc000 00:00 0 
+4390c000-4390d000 ---p 4390c000 00:00 0 
+4390d000-4394d000 rwxp 4390d000 00:00 0 
+4394d000-4394e000 ---p 4394d000 00:00 0 
+4394e000-4398e000 rwxp 4394e000 00:00 0 
+4398e000-4398f000 ---p 4398e000 00:00 0 
+4398f000-439cf000 rwxp 4398f000 00:00 0 
+439cf000-439d0000 ---p 439cf000 00:00 0 
+439d0000-43a10000 rwxp 439d0000 00:00 0 
+43a10000-43a11000 ---p 43a10000 00:00 0 
+43a11000-43a51000 rwxp 43a11000 00:00 0 
+43a51000-43a52000 ---p 43a51000 00:00 0 
+43a52000-43a92000 rwxp 43a52000 00:00 0 
+43a92000-43a93000 ---p 43a92000 00:00 0 
+43a93000-43ad3000 rwxp 43a93000 00:00 0 
+43ad3000-43ad4000 ---p 43ad3000 00:00 0 
+43ad4000-43b14000 rwxp 43ad4000 00:00 0 
+43b14000-43b15000 ---p 43b14000 00:00 0 
+43b15000-43b55000 rwxp 43b15000 00:00 0 
+43b55000-43b56000 ---p 43b55000 00:00 0 
+43b56000-43b96000 rwxp 43b56000 00:00 0 
+43b96000-43b97000 ---p 43b96000 00:00 0 
+43b97000-43bd7000 rwxp 43b97000 00:00 0 
+43bd7000-43bd8000 ---p 43bd7000 00:00 0 
+43bd8000-43c18000 rwxp 43bd8000 00:00 0 
+43c18000-43c19000 ---p 43c18000 00:00 0 
+43c19000-43c59000 rwxp 43c19000 00:00 0 
+43c59000-43c5a000 ---p 43c59000 00:00 0 
+43c5a000-43c9a000 rwxp 43c5a000 00:00 0 
+43c9a000-43c9b000 ---p 43c9a000 00:00 0 
+43c9b000-43cdb000 rwxp 43c9b000 00:00 0 
+43cdb000-43cdc000 ---p 43cdb000 00:00 0 
+43cdc000-43d1c000 rwxp 43cdc000 00:00 0 
+43d1c000-43d1d000 ---p 43d1c000 00:00 0 
+43d1d000-43d5d000 rwxp 43d1d000 00:00 0 
+43d5d000-43d5e000 ---p 43d5d000 00:00 0 
+43d5e000-43d9e000 rwxp 43d5e000 00:00 0 
+43d9e000-43d9f000 ---p 43d9e000 00:00 0 
+43d9f000-43ddf000 rwxp 43d9f000 00:00 0 
+43ddf000-43de0000 ---p 43ddf000 00:00 0 
+43de0000-43e20000 rwxp 43de0000 00:00 0 
+43e20000-43e21000 ---p 43e20000 00:00 0 
+43e21000-43e61000 rwxp 43e21000 00:00 0 
+43e61000-43e62000 ---p 43e61000 00:00 0 
+43e62000-43ea2000 rwxp 43e62000 00:00 0 
+43ea2000-43ea3000 ---p 43ea2000 00:00 0 
+43ea3000-43ee3000 rwxp 43ea3000 00:00 0 
+43ee3000-43ee4000 ---p 43ee3000 00:00 0 
+43ee4000-43f24000 rwxp 43ee4000 00:00 0 
+43f24000-43f25000 ---p 43f24000 00:00 0 
+43f25000-43f65000 rwxp 43f25000 00:00 0 
+43f65000-43f66000 ---p 43f65000 00:00 0 
+43f66000-43fa6000 rwxp 43f66000 00:00 0 
+43fa6000-43fa7000 ---p 43fa6000 00:00 0 
+43fa7000-43fe7000 rwxp 43fa7000 00:00 0 
+43fe7000-43fe8000 ---p 43fe7000 00:00 0 
+43fe8000-44028000 rwxp 43fe8000 00:00 0 
+44028000-44029000 ---p 44028000 00:00 0 
+44029000-44069000 rwxp 44029000 00:00 0 
+44069000-4406a000 ---p 44069000 00:00 0 
+4406a000-440aa000 rwxp 4406a000 00:00 0 
+440aa000-440ab000 ---p 440aa000 00:00 0 
+440ab000-440eb000 rwxp 440ab000 00:00 0 
+440eb000-440ec000 ---p 440eb000 00:00 0 
+440ec000-4412c000 rwxp 440ec000 00:00 0 
+4412c000-4412d000 ---p 4412c000 00:00 0 
+4412d000-4416d000 rwxp 4412d000 00:00 0 
+4416d000-4416e000 ---p 4416d000 00:00 0 
+4416e000-441ae000 rwxp 4416e000 00:00 0 
+441ae000-441af000 ---p 441ae000 00:00 0 
+441af000-441ef000 rwxp 441af000 00:00 0 
+441ef000-441f0000 ---p 441ef000 00:00 0 
+441f0000-44230000 rwxp 441f0000 00:00 0 
+44230000-44231000 ---p 44230000 00:00 0 
+44231000-44271000 rwxp 44231000 00:00 0 
+44271000-44272000 ---p 44271000 00:00 0 
+44272000-442b2000 rwxp 44272000 00:00 0 
+442b2000-442b3000 ---p 442b2000 00:00 0 
+442b3000-442f3000 rwxp 442b3000 00:00 0 
+442f3000-442f4000 ---p 442f3000 00:00 0 
+442f4000-44334000 rwxp 442f4000 00:00 0 
+44334000-44335000 ---p 44334000 00:00 0 
+44335000-44375000 rwxp 44335000 00:00 0 
+44375000-44376000 ---p 44375000 00:00 0 
+44376000-443b6000 rwxp 44376000 00:00 0 
+443b6000-443b7000 ---p 443b6000 00:00 0 
+443b7000-443f7000 rwxp 443b7000 00:00 0 
+443f7000-443f8000 ---p 443f7000 00:00 0 
+443f8000-44438000 rwxp 443f8000 00:00 0 
+44438000-44439000 ---p 44438000 00:00 0 
+44439000-44479000 rwxp 44439000 00:00 0 
+44479000-4447a000 ---p 44479000 00:00 0 
+4447a000-444ba000 rwxp 4447a000 00:00 0 
+444ba000-444bb000 ---p 444ba000 00:00 0 
+444bb000-444fb000 rwxp 444bb000 00:00 0 
+444fb000-444fc000 ---p 444fb000 00:00 0 
+444fc000-4453c000 rwxp 444fc000 00:00 0 
+4453c000-4453d000 ---p 4453c000 00:00 0 
+4453d000-4457d000 rwxp 4453d000 00:00 0 
+4457d000-4457e000 ---p 4457d000 00:00 0 
+4457e000-445be000 rwxp 4457e000 00:00 0 
+445be000-445bf000 ---p 445be000 00:00 0 
+445bf000-445ff000 rwxp 445bf000 00:00 0 
+445ff000-44600000 ---p 445ff000 00:00 0 
+44600000-44640000 rwxp 44600000 00:00 0 
+44640000-44641000 ---p 44640000 00:00 0 
+44641000-44681000 rwxp 44641000 00:00 0 
+44681000-44682000 ---p 44681000 00:00 0 
+44682000-446c2000 rwxp 44682000 00:00 0 
+446c2000-446c3000 ---p 446c2000 00:00 0 
+446c3000-44703000 rwxp 446c3000 00:00 0 
+44703000-44704000 ---p 44703000 00:00 0 
+44704000-44744000 rwxp 44704000 00:00 0 
+44744000-44745000 ---p 44744000 00:00 0 
+44745000-44785000 rwxp 44745000 00:00 0 
+3513c00000-3513c07000 r-xp 00000000 fd:00 15892482                       /lib64/librt-2.5.so
+3513c07000-3513e07000 ---p 00007000 fd:00 15892482                       /lib64/librt-2.5.so
+3513e07000-3513e08000 r--p 00007000 fd:00 15892482                       /lib64/librt-2.5.so
+3513e08000-3513e09000 rw-p 00008000 fd:00 15892482                       /lib64/librt-2.5.so
+3514000000-3514016000 r-xp 00000000 fd:00 15892481                       /lib64/libpthread-2.5.so
+3514016000-3514215000 ---p 00016000 fd:00 15892481                       /lib64/libpthread-2.5.so
+3514215000-3514216000 r--p 00015000 fd:00 15892481                       /lib64/libpthread-2.5.so
+3514216000-3514217000 rw-p 00016000 fd:00 15892481                       /lib64/libpthread-2.5.so
+3514217000-351421b000 rw-p 3514217000 00:00 0 
+3fd0400000-3fd041c000 r-xp 00000000 fd:00 10321923                       /lib64/ld-2.5.so
+3fd061c000-3fd061d000 r--p 0001c000 fd:00 10321923                       /lib64/ld-2.5.so
+3fd061d000-3fd061e000 rw-p 0001d000 fd:00 10321923                       /lib64/ld-2.5.so
+3fd0800000-3fd094e000 r-xp 00000000 fd:00 10321926                       /lib64/libc-2.5.so
+3fd094e000-3fd0b4e000 ---p 0014e000 fd:00 10321926                       /lib64/libc-2.5.so
+3fd0b4e000-3fd0b52000 r--p 0014e000 fd:00 10321926                       /lib64/libc-2.5.so
+3fd0b52000-3fd0b53000 rw-p 00152000 fd:00 10321926                       /lib64/libc-2.5.so
+3fd0b53000-3fd0b58000 rw-p 3fd0b53000 00:00 0 
+3fd0c00000-3fd0c02000 r-xp 00000000 fd:00 10321945                       /lib64/libdl-2.5.so
+3fd0c02000-3fd0e02000 ---p 00002000 fd:00 10321945                       /lib64/libdl-2.5.so
+3fd0e02000-3fd0e03000 r--p 00002000 fd:00 10321945                       /lib64/libdl-2.5.so
+3fd0e03000-3fd0e04000 rw-p 00003000 fd:00 10321945                       /lib64/libdl-2.5.so
+3fd1000000-3fd1082000 r-xp 00000000 fd:00 10321973                       /lib64/libm-2.5.so
+3fd1082000-3fd1281000 ---p 00082000 fd:00 10321973                       /lib64/libm-2.5.so
+3fd1281000-3fd1282000 r--p 00081000 fd:00 10321973                       /lib64/libm-2.5.so
+3fd1282000-3fd1283000 rw-p 00082000 fd:00 10321973                       /lib64/libm-2.5.so
+3fd2800000-3fd280d000 r-xp 00000000 fd:00 10322230                       /lib64/libgcc_s-4.1.2-20080825.so.1
+3fd280d000-3fd2a0d000 ---p 0000d000 fd:00 10322230                       /lib64/libgcc_s-4.1.2-20080825.so.1
+3fd2a0d000-3fd2a0e000 rw-p 0000d000 fd:00 10322230                       /lib64/libgcc_s-4.1.2-20080825.so.1
+3fd3800000-3fd3815000 r-xp 00000000 fd:00 10322249                       /lib64/libnsl-2.5.so
+3fd3815000-3fd3a14000 ---p 00015000 fd:00 10322249                       /lib64/libnsl-2.5.so
+3fd3a14000-3fd3a15000 r--p 00014000 fd:00 10322249                       /lib64/libnsl-2.5.so
+3fd3a15000-3fd3a16000 rw-p 00015000 fd:00 10322249                       /lib64/libnsl-2.5.so
+3fd3a16000-3fd3a18000 rw-p 3fd3a16000 00:00 0 
+3fd5000000-3fd5011000 r-xp 00000000 fd:00 10322251                       /lib64/libresolv-2.5.so
+3fd5011000-3fd5211000 ---p 00011000 fd:00 10322251                       /lib64/libresolv-2.5.so
+3fd5211000-3fd5212000 r--p 00011000 fd:00 10322251                       /lib64/libresolv-2.5.so
+3fd5212000-3fd5213000 rw-p 00012000 fd:00 10322251                       /lib64/libresolv-2.5.so
+3fd5213000-3fd5215000 rw-p 3fd5213000 00:00 0 
+3fd6400000-3fd6409000 r-xp 00000000 fd:00 10322229                       /lib64/libcrypt-2.5.so
+3fd6409000-3fd6608000 ---p 00009000 fd:00 10322229                       /lib64/libcrypt-2.5.so
+3fd6608000-3fd6609000 r--p 00008000 fd:00 10322229                       /lib64/libcrypt-2.5.so
+3fd6609000-3fd660a000 rw-p 00009000 fd:00 10322229                       /lib64/libcrypt-2.5.so
+3fd660a000-3fd6638000 rw-p 3fd660a000 00:00 0 
+2aaaaaaab000-2aaaaaad2000 r-xp 00000000 fd:00 15603341                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjvm.so
+2aaaaaad2000-2aaaaabd1000 ---p 00027000 fd:00 15603341                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjvm.so
+2aaaaabd1000-2aaaaabd4000 rw-p 00026000 fd:00 15603341                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjvm.so
+2aaaaabd4000-2aaaaabd9000 rw-p 2aaaaabd4000 00:00 0 
+2aaaaabd9000-2aaaaabdb000 r-xp 00000000 fd:00 15603514                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjsig.so
+2aaaaabdb000-2aaaaacdb000 ---p 00002000 fd:00 15603514                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjsig.so
+2aaaaacdb000-2aaaaacdc000 rw-p 00002000 fd:00 15603514                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjsig.so
+2aaaaacdc000-2aaaaad68000 r-xp 00000000 fd:00 15603272                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9vm26.so
+2aaaaad68000-2aaaaae67000 ---p 0008c000 fd:00 15603272                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9vm26.so
+2aaaaae67000-2aaaaae6d000 rw-p 0008b000 fd:00 15603272                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9vm26.so
+2aaaaae6d000-2aaaaae6e000 rw-p 2aaaaae6d000 00:00 0 
+2aaaaae6e000-2aaaaae7e000 r-xp 00000000 fd:00 15603421                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9thr26.so
+2aaaaae7e000-2aaaaaf7d000 ---p 00010000 fd:00 15603421                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9thr26.so
+2aaaaaf7d000-2aaaaaf7f000 rw-p 0000f000 fd:00 15603421                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9thr26.so
+2aaaaaf7f000-2aaaaaf83000 r-xp 00000000 fd:00 15603493                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9hookable26.so
+2aaaaaf83000-2aaaab082000 ---p 00004000 fd:00 15603493                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9hookable26.so
+2aaaab082000-2aaaab083000 rw-p 00003000 fd:00 15603493                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9hookable26.so
+2aaaab083000-2aaaab0c4000 r-xp 00000000 fd:00 15603311                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9prt26.so
+2aaaab0c4000-2aaaab1c4000 ---p 00041000 fd:00 15603311                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9prt26.so
+2aaaab1c4000-2aaaab1c9000 rw-p 00041000 fd:00 15603311                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9prt26.so
+2aaaab1c9000-2aaaab1cb000 rw-p 2aaaab1c9000 00:00 0 
+2aaaab1cb000-2aaaab1cc000 r-xp 00000000 fd:00 15603601                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libvmi.so
+2aaaab1cc000-2aaaab2cb000 ---p 00001000 fd:00 15603601                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libvmi.so
+2aaaab2cb000-2aaaab2cc000 rw-p 00000000 fd:00 15603601                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libvmi.so
+2aaaab2cc000-2aaaab2d4000 r-xp 00000000 fd:00 15603457                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libhyprtshim26.so
+2aaaab2d4000-2aaaab3d3000 ---p 00008000 fd:00 15603457                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libhyprtshim26.so
+2aaaab3d3000-2aaaab3d4000 rw-p 00007000 fd:00 15603457                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libhyprtshim26.so
+2aaaab3d4000-2aaaab3d6000 r-xp 00000000 fd:00 15603508                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libhythr.so
+2aaaab3d6000-2aaaab4d6000 ---p 00002000 fd:00 15603508                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libhythr.so
+2aaaab4d6000-2aaaab4d7000 rw-p 00002000 fd:00 15603508                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libhythr.so
+2aaaab4d7000-2aaaab556000 rw-p 2aaaab4d7000 00:00 0 
+2aaaab556000-2aaaaeb22000 r--p 00000000 fd:00 12298691                   /usr/lib/locale/locale-archive
+2aaaaeb22000-2aaaaebae000 rw-p 2aaaaeb22000 00:00 0 
+2aaaaebae000-2aaaaebd9000 r-xp 00000000 fd:00 15603337                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9dmp26.so
+2aaaaebd9000-2aaaaecd8000 ---p 0002b000 fd:00 15603337                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9dmp26.so
+2aaaaecd8000-2aaaaecda000 rw-p 0002a000 fd:00 15603337                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9dmp26.so
+2aaaaecda000-2aaaaeceb000 r-xp 00000000 fd:00 15603428                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9zlib26.so
+2aaaaeceb000-2aaaaedeb000 ---p 00011000 fd:00 15603428                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9zlib26.so
+2aaaaedeb000-2aaaaedec000 rw-p 00011000 fd:00 15603428                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9zlib26.so
+2aaaaedec000-2aaaaedfd000 r-xp 00000000 fd:00 15603411                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9trc26.so
+2aaaaedfd000-2aaaaeefd000 ---p 00011000 fd:00 15603411                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9trc26.so
+2aaaaeefd000-2aaaaeeff000 rw-p 00011000 fd:00 15603411                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9trc26.so
+2aaaaeeff000-2aaaaef06000 r--s 00000000 fd:00 12387282                   /usr/lib64/gconv/gconv-modules.cache
+2aaaaef06000-2aaaaef07000 rwxp 2aaaaef06000 00:00 0 
+2aaaaef0f000-2aaaaef19000 r-xp 00000000 fd:00 10321982                   /lib64/libnss_files-2.5.so
+2aaaaef19000-2aaaaf118000 ---p 0000a000 fd:00 10321982                   /lib64/libnss_files-2.5.so
+2aaaaf118000-2aaaaf119000 r--p 00009000 fd:00 10321982                   /lib64/libnss_files-2.5.so
+2aaaaf119000-2aaaaf11a000 rw-p 0000a000 fd:00 10321982                   /lib64/libnss_files-2.5.so
+2aaaaf11a000-2aaaaf7b5000 r-xp 00000000 fd:00 15603256                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9jit26.so
+2aaaaf7b5000-2aaaaf8b4000 ---p 0069b000 fd:00 15603256                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9jit26.so
+2aaaaf8b4000-2aaaaf8fe000 rw-p 0069a000 fd:00 15603256                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9jit26.so
+2aaaaf8fe000-2aaaaf902000 rw-p 2aaaaf8fe000 00:00 0 
+2aaaaf902000-2aaaaf918000 r-xp 00000000 fd:00 15603406                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9bcv26.so
+2aaaaf918000-2aaaafa17000 ---p 00016000 fd:00 15603406                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9bcv26.so
+2aaaafa17000-2aaaafa19000 rw-p 00015000 fd:00 15603406                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9bcv26.so
+2aaaafa19000-2aaaafbe3000 r-xp 00000000 fd:00 15603260                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9gc26.so
+2aaaafbe3000-2aaaafce2000 ---p 001ca000 fd:00 15603260                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9gc26.so
+2aaaafce2000-2aaaafcf1000 rw-p 001c9000 fd:00 15603260                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9gc26.so
+2aaaafcf1000-2aaaafd31000 r-xp 00000000 fd:00 15603314                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9dyn26.so
+2aaaafd31000-2aaaafe30000 ---p 00040000 fd:00 15603314                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9dyn26.so
+2aaaafe30000-2aaaafe33000 rw-p 0003f000 fd:00 15603314                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9dyn26.so
+2aaaafe33000-2aaaafe7b000 r-xp 00000000 fd:00 15603301                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9vrb26.so
+2aaaafe7b000-2aaaaff7a000 ---p 00048000 fd:00 15603301                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9vrb26.so
+2aaaaff7a000-2aaaaff7d000 rw-p 00047000 fd:00 15603301                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9vrb26.so
+2aaaaff7d000-2aaaaffdf000 r-xp 00000000 fd:00 15603289                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9shr26.so
+2aaaaffdf000-2aaab00df000 ---p 00062000 fd:00 15603289                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9shr26.so
+2aaab00df000-2aaab00e5000 rw-p 00062000 fd:00 15603289                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9shr26.so
+2aaab00e5000-2aaab0129000 r-xp 00000000 fd:00 15603307                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9jvmti26.so
+2aaab0129000-2aaab0229000 ---p 00044000 fd:00 15603307                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9jvmti26.so
+2aaab0229000-2aaab022e000 rw-p 00044000 fd:00 15603307                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9jvmti26.so
+2aaab022e000-2aaab029a000 r-xp 00000000 fd:00 15603279                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjclscar_26.so
+2aaab029a000-2aaab039a000 ---p 0006c000 fd:00 15603279                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjclscar_26.so
+2aaab039a000-2aaab039e000 rw-p 0006c000 fd:00 15603279                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libjclscar_26.so
+2aaab039e000-2aaab03a0000 ---p 2aaab039e000 00:00 0 
+2aaab03a0000-2aab103a0000 rw-p 2aaab03a0000 00:00 0 
+2aab103a0000-2aab87d10000 ---p 2aab103a0000 00:00 0 
+2aab87d10000-2aabb0390000 rw-p 2aab87d10000 00:00 0 
+2aabb0390000-2aabb039e000 ---p 2aabb0390000 00:00 0 
+2aabb039e000-2aabb1b9e000 rw-p 2aabb039e000 00:00 0 
+2aabb1b9e000-2aabb3983000 ---p 2aabb1b9e000 00:00 0 
+2aabb3983000-2aabb439e000 rw-p 2aabb3983000 00:00 0 
+2aabb439e000-2aabb439f000 ---p 2aabb439e000 00:00 0 
+2aabb439f000-2aabb4ed7000 rw-p 2aabb439f000 00:00 0 
+2aabb4ed7000-2aabb5293000 ---p 2aabb4ed7000 00:00 0 
+2aabb5293000-2aabb53d7000 rw-p 2aabb5293000 00:00 0 
+2aabb53d7000-2aabb53d8000 ---p 2aabb53d7000 00:00 0 
+2aabb53d8000-2aabb5791000 rw-p 2aabb53d8000 00:00 0 
+2aabb57a1000-2aabb57a5000 r-xp 00000000 fd:00 10321940                   /lib64/libnss_dns-2.5.so
+2aabb57a5000-2aabb59a4000 ---p 00004000 fd:00 10321940                   /lib64/libnss_dns-2.5.so
+2aabb59a4000-2aabb59a5000 r--p 00003000 fd:00 10321940                   /lib64/libnss_dns-2.5.so
+2aabb59a5000-2aabb59a6000 rw-p 00004000 fd:00 10321940                   /lib64/libnss_dns-2.5.so
+2aabb59a6000-2aabb59c5000 r-xp 00000000 fd:00 15603373                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9ute26.so
+2aabb59c5000-2aabb5ac5000 ---p 0001f000 fd:00 15603373                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9ute26.so
+2aabb5ac5000-2aabb5ac6000 rw-p 0001f000 fd:00 15603373                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/default/libj9ute26.so
+2aabb5ac6000-2aabb5aee000 rw-p 2aabb5ac6000 00:00 0 
+2aabb5aee000-2aabb62ee000 rwxp 2aabb5aee000 00:00 0 
+2aabb62ee000-2aabb6533000 rw-p 2aabb62ee000 00:00 0 
+2aabb6533000-2aabb6534000 rw-s 00000000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb6534000-2aabb880f000 r--s 00001000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb880f000-2aabb8810000 rw-s 022dc000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8810000-2aabb88a2000 r--s 022dd000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb88a2000-2aabb88a3000 rw-s 0236f000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb88a3000-2aabb88f1000 r--s 02370000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb88f1000-2aabb88f2000 rw-s 023be000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb88f2000-2aabb8a0e000 r--s 023bf000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8a0e000-2aabb8a0f000 rw-s 024db000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8a0f000-2aabb8aa6000 r--s 024dc000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8aa6000-2aabb8aa7000 rw-s 02573000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8aa7000-2aabb8afd000 r--s 02574000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8afd000-2aabb8afe000 rw-s 025ca000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8afe000-2aabb8bab000 r--s 025cb000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8bab000-2aabb8bac000 rw-s 02678000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8bac000-2aabb8bb3000 r--s 02679000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8bb3000-2aabb8bb4000 rw-s 02680000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8bb4000-2aabb8cb1000 r--s 02681000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8cb1000-2aabb8cb2000 rw-s 0277e000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8cb2000-2aabb8cd1000 r--s 0277f000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8cd1000-2aabb8cd2000 rw-s 0279e000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8cd2000-2aabb8cf3000 r--s 0279f000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8cf3000-2aabb8cf4000 rw-s 027c0000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8cf4000-2aabb8d5c000 r--s 027c1000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8d5c000-2aabb8d5d000 rw-s 02829000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8d5d000-2aabb8e04000 r--s 0282a000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8e04000-2aabb8e05000 rw-s 028d1000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8e05000-2aabb8e62000 r--s 028d2000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8e62000-2aabb8e63000 rw-s 0292f000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8e63000-2aabb8ec0000 r--s 02930000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8ec0000-2aabb8ec1000 rw-s 0298d000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8ec1000-2aabb8f14000 r--s 0298e000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f14000-2aabb8f15000 rw-s 029e1000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f15000-2aabb8f2e000 r--s 029e2000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f2e000-2aabb8f2f000 rw-s 029fb000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f2f000-2aabb8f3f000 r--s 029fc000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f3f000-2aabb8f40000 rw-s 02a0c000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f40000-2aabb8f4f000 r--s 02a0d000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f4f000-2aabb8f50000 rw-s 02a1c000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f50000-2aabb8f8a000 r--s 02a1d000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f8a000-2aabb8f8b000 rw-s 02a57000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8f8b000-2aabb8ff1000 r--s 02a58000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8ff1000-2aabb8ff2000 rw-s 02abe000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8ff2000-2aabb8ffb000 r--s 02abf000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8ffb000-2aabb8ffc000 rw-s 02ac8000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb8ffc000-2aabb9221000 r--s 02ac9000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb9221000-2aabb9222000 rw-s 02cee000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb9222000-2aabb9733000 r--s 02cef000 fd:00 15833335                   /tmp/javasharedresources/C260M2A64P_webspherev80_iwgroup_G21
+2aabb9733000-2aabb98de000 rw-p 2aabb9733000 00:00 0 
+2aabb98de000-2aabb9907000 r-xp 00000000 fd:00 15603332                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libjava.so
+2aabb9907000-2aabb9a06000 ---p 00029000 fd:00 15603332                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libjava.so
+2aabb9a06000-2aabb9a0a000 rw-p 00028000 fd:00 15603332                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libjava.so
+2aabb9a1a000-2aabb9a1c000 r-xp 00000000 fd:00 15603545                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libdbgwrapper.so
+2aabb9a1c000-2aabb9b1b000 ---p 00002000 fd:00 15603545                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libdbgwrapper.so
+2aabb9b1b000-2aabb9b1c000 rw-p 00001000 fd:00 15603545                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libdbgwrapper.so
+2aabb9b1c000-2aabb9b2c000 r-xp 00000000 fd:00 15603423                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libzip.so
+2aabb9b2c000-2aabb9c2b000 ---p 00010000 fd:00 15603423                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libzip.so
+2aabb9c2b000-2aabb9c2d000 rw-p 0000f000 fd:00 15603423                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libzip.so
+2aabb9c2d000-2aabb9c4e000 rw-p 2aabb9c2d000 00:00 0 
+2aabb9c9f000-2aabb9cb5000 r-xp 00000000 fd:00 15603398                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libnet.so
+2aabb9cb5000-2aabb9db5000 ---p 00016000 fd:00 15603398                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libnet.so
+2aabb9db5000-2aabb9db6000 rw-p 00016000 fd:00 15603398                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libnet.so
+2aabb9db6000-2aabb9dbe000 r-xp 00000000 fd:00 15603459                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libnio.so
+2aabb9dbe000-2aabb9ebd000 ---p 00008000 fd:00 15603459                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libnio.so
+2aabb9ebd000-2aabb9ebe000 rw-p 00007000 fd:00 15603459                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libnio.so
+2aabb9ebe000-2aabb9ecf000 r-xp 00000000 fd:00 15765160                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libWs60ProcessManagement.so
+2aabb9ecf000-2aabb9fce000 ---p 00011000 fd:00 15765160                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libWs60ProcessManagement.so
+2aabb9fce000-2aabb9fd0000 rw-p 00010000 fd:00 15765160                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libWs60ProcessManagement.so
+2aabb9fd0000-2aabb9fd4000 r-xp 00000000 fd:00 15765173                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libibmaio.so
+2aabb9fd4000-2aabba0d3000 ---p 00004000 fd:00 15765173                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libibmaio.so
+2aabba0d3000-2aabba0d4000 rw-p 00003000 fd:00 15765173                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libibmaio.so
+2aabba0d4000-2aabba0d7000 r-xp 00000000 fd:00 15606562                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libSystemData.so
+2aabba0d7000-2aabba1d7000 ---p 00003000 fd:00 15606562                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libSystemData.so
+2aabba1d7000-2aabba1d8000 rw-p 00003000 fd:00 15606562                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libSystemData.so
+2aabba1d8000-2aabba408000 rw-p 2aabba1d8000 00:00 0 
+2aabba408000-2aabba508000 rw-s 00000000 fd:00 15893700                   /opt/IBM/WebSphere/AppServer/profiles/dmgrProfileka1mo/tranlog/dmgrCellka1mo/dmgrProfileka1mo/dmgr/transaction/tranlog/log1
+2aabba508000-2aabba608000 rw-s 00000000 fd:00 15893701                   /opt/IBM/WebSphere/AppServer/profiles/dmgrProfileka1mo/tranlog/dmgrCellka1mo/dmgrProfileka1mo/dmgr/transaction/tranlog/log2
+2aabba608000-2aabba708000 rw-s 00000000 fd:00 15893704                   /opt/IBM/WebSphere/AppServer/profiles/dmgrProfileka1mo/tranlog/dmgrCellka1mo/dmgrProfileka1mo/dmgr/transaction/partnerlog/log1
+2aabba708000-2aabba808000 rw-s 00000000 fd:00 15893705                   /opt/IBM/WebSphere/AppServer/profiles/dmgrProfileka1mo/tranlog/dmgrCellka1mo/dmgrProfileka1mo/dmgr/transaction/partnerlog/log2
+2aabba808000-2aabba80a000 r-xp 00000000 fd:00 15765177                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libgetClasses.so
+2aabba80a000-2aabba90a000 ---p 00002000 fd:00 15765177                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libgetClasses.so
+2aabba90a000-2aabba90b000 rw-p 00002000 fd:00 15765177                   /opt/IBM/WebSphere/AppServer/lib/native/linux/x86_64/libgetClasses.so
+2aabba90b000-2aabbab0b000 rwxp 2aabba90b000 00:00 0 
+2aabbab0b000-2aabbad0c000 rw-p 2aabbab0b000 00:00 0 
+2aabbad0c000-2aabbbd0c000 rwxp 2aabbad0c000 00:00 0 
+2aabbc000000-2aabbfff9000 rw-p 2aabbc000000 00:00 0 
+2aabbfff9000-2aabc0000000 ---p 2aabbfff9000 00:00 0 
+2aabc0000000-2aabc3ffd000 rw-p 2aabc0000000 00:00 0 
+2aabc3ffd000-2aabc4000000 ---p 2aabc3ffd000 00:00 0 
+2aabc4000000-2aabcbffe000 rw-p 2aabc4000000 00:00 0 
+2aabcbffe000-2aabcc000000 ---p 2aabcbffe000 00:00 0 
+2aabcc000000-2aabcc400000 rwxp 2aabcc000000 00:00 0 
+2aabd0000000-2aabd3ffd000 rw-p 2aabd0000000 00:00 0 
+2aabd3ffd000-2aabd4000000 ---p 2aabd3ffd000 00:00 0 
+2aabd4000000-2aabd671f000 rw-p 2aabd4000000 00:00 0 
+2aabd671f000-2aabd8000000 ---p 2aabd671f000 00:00 0 
+2aabd8000000-2aabdbfff000 rw-p 2aabd8000000 00:00 0 
+2aabdbfff000-2aabdc000000 ---p 2aabdbfff000 00:00 0 
+2aabdc807000-2aabdca07000 rwxp 2aabdc807000 00:00 0 
+2aabe0000000-2aabe8000000 rw-p 2aabe0000000 00:00 0 
+2aabec000000-2aabf0000000 rw-p 2aabec000000 00:00 0 
+2aabf0000000-2aabf3ffe000 rw-p 2aabf0000000 00:00 0 
+2aabf3ffe000-2aabf4000000 ---p 2aabf3ffe000 00:00 0 
+2aabf4000000-2aabf4200000 rwxp 2aabf4000000 00:00 0 
+2aabf8000000-2aabfbffd000 rw-p 2aabf8000000 00:00 0 
+2aabfbffd000-2aabfc000000 ---p 2aabfbffd000 00:00 0 
+2aabfc000000-2aac04000000 rw-p 2aabfc000000 00:00 0 
+2aac08000000-2aac17ffc000 rw-p 2aac08000000 00:00 0 
+2aac17ffc000-2aac18000000 ---p 2aac17ffc000 00:00 0 
+2aac18000000-2aac1bffc000 rw-p 2aac18000000 00:00 0 
+2aac1bffc000-2aac1c000000 ---p 2aac1bffc000 00:00 0 
+2aac1c000000-2aac1fffd000 rw-p 2aac1c000000 00:00 0 
+2aac1fffd000-2aac20000000 ---p 2aac1fffd000 00:00 0 
+2aac20000000-2aac23ffe000 rw-p 2aac20000000 00:00 0 
+2aac23ffe000-2aac24000000 ---p 2aac23ffe000 00:00 0 
+2aac24000000-2aac28018000 rw-p 2aac24000000 00:00 0 
+2aac2c000000-2aac37ffb000 rw-p 2aac2c000000 00:00 0 
+2aac37ffb000-2aac38000000 ---p 2aac37ffb000 00:00 0 
+2aac38000000-2aac3b6f2000 rw-p 2aac38000000 00:00 0 
+2aac3b6f2000-2aac3c000000 ---p 2aac3b6f2000 00:00 0 
+2aac3c000000-2aac3c200000 rwxp 2aac3c000000 00:00 0 
+2aac40000000-2aac407c0000 rw-p 2aac40000000 00:00 0 
+2aac407c0000-2aac44000000 ---p 2aac407c0000 00:00 0 
+2b2642a23000-2b2642a25000 rw-p 2b2642a23000 00:00 0 
+2b2642a25000-2b2642a27000 r-xp 00000000 fd:00 15603515                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libjsig.so
+2b2642a27000-2b2642b27000 ---p 00002000 fd:00 15603515                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libjsig.so
+2b2642b27000-2b2642b28000 rw-p 00002000 fd:00 15603515                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/libjsig.so
+2b2642b38000-2b2642b39000 rw-p 2b2642b38000 00:00 0 
+2b2642b39000-2b2642b40000 r-xp 00000000 fd:00 15603463                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/jli/libjli.so
+2b2642b40000-2b2642c40000 ---p 00007000 fd:00 15603463                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/jli/libjli.so
+2b2642c40000-2b2642c42000 rw-p 00007000 fd:00 15603463                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/jli/libjli.so
+2b2642c42000-2b2642c44000 rw-p 2b2642c42000 00:00 0 
+2b2642c44000-2b2642c55000 r-xp 00000000 fd:00 15603415                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/j9vm/libjvm.so
+2b2642c55000-2b2642d54000 ---p 00011000 fd:00 15603415                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/j9vm/libjvm.so
+2b2642d54000-2b2642d55000 rw-p 00010000 fd:00 15603415                   /opt/IBM/WebSphere/AppServer/java/jre/lib/amd64/j9vm/libjvm.so
+7fff39a0e000-7fff39a22000 rwxp 7ffffffe8000 00:00 0                      [stack]
+7fff39a22000-7fff39a24000 rw-p 7fffffffd000 00:00 0 
+7fff39b06000-7fff39b0a000 r-xp 7fff39b06000 00:00 0                      [vdso]
+ffffffffff600000-ffffffffffe00000 ---p 00000000 00:00 0                  [vsyscall]
