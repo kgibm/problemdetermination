@@ -2,9 +2,12 @@
 # Example: wsadmin -username wsadmin -password wsadmin -lang jython -f tpvlogging.py -userprefs wsadmin -action start -server server1
 
 def usage():
-	print "usage: wsadmin -lang jython -f tpvlogging.py -action [start|stop|list|setlevel] -userprefs USER [-node NODE] [-server SERVER] [-pmilevel NEWLEVEL]"
+	print "usage: wsadmin -lang jython -f tpvlogging.py -action [start|stop|list|setlevel] -userprefs USER [-node NODE] [-server SERVER] [-pmilevel none|basic|extended|all]"
 	print "       -userprefs is required and you can just pass in the same user as -username for wsadmin, or any name otherwise"
 	print "       -pmilevel is only used with -action setlevel. Valid values are none, basic, extended, all"
+	print "       If neither -node nor -server are specified, then all application servers on all nodes will be executed"
+	print "       If -node is specified but -server isn't, then all application servers on the node will be executed"
+	print "       This script does not yet support a custom statistics set for -action setlevel"
 	sys.exit()
 
 import sys
@@ -19,10 +22,10 @@ targetNode = ""
 targetApplicationServer = ""
 user = ""
 filename = "tpv"
-duration = 300000000
-fileSize = 10485760
-numFiles = 20
-outputType = "bin" # or "xml"
+duration = 999999
+fileSize = 52428800
+numFiles = 5
+outputType = "xml" # or "bin"
 bufferSize = 40
 pmilevel = "extended" # only if -action setlevel
 help = 0
