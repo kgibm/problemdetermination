@@ -117,7 +117,7 @@ isGood && /^3XMTHREADINFO / {
 
 function getThreadName(line) {
   gsub(/3XMTHREADINFO +[^ ]/, "", line);
-  gsub(/\".*/, "", line);
+  gsub(/".*/, "", line);
   return line;
 }
 
