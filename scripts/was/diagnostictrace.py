@@ -7,9 +7,10 @@ def usage(error):
     print "ERROR: " + error
     print ""
 
-  print "usage: wsadmin -lang jython -f diagnostictrace.py --action [list|set] [--node NODE] [--server SERVER] [--trace SPECIFICATION]"
-  print "  If neither -node nor -server are specified, then all servers on all nodes will be processed"
-  print "  If -node is specified but -server isn't, then all application servers on the node will be processed"
+  print "usage: wsadmin -lang jython -f diagnostictrace.py --action [list|set] [--node NODE] [--server SERVER] [--trace SPECIFICATION] [--serverType APPLICATION_SERVER]"
+  print "  If neither -node nor -server are specified, then all servers on all nodes will be processed."
+  print "  If -node is specified but -server isn't, then all application servers on the node will be processed."
+  print "  Use --serverType APPLICATION_SERVER to skip the deployment manager and node agents."
   sys.exit()
 
 def info(obj):
@@ -28,6 +29,7 @@ action = "list"
 targetNode = ""
 targetApplicationServer = ""
 traceSpecification = ""
+serverType = ""
 
 info(NAME + " " + VERSION + " jython: " + str(sys.version_info))
 
@@ -50,6 +52,9 @@ while i < l:
   elif arg == "--trace":
     i = i + 1
     traceSpecification = sys.argv[i]
+  elif arg == "--serverType":
+    i = i + 1
+    serverType = sys.argv[i]
   elif arg == "--verbose":
     verbose = 1
   else:
@@ -130,7 +135,7 @@ for nodeObject in nodeList:
 
   serverList = []
   try:
-    serverList = listServers("", nodeName)
+    serverList = listServers(serverType, nodeName)
   except:
     warning("Node agent appears to be not running or cannot be contacted: Node: " + nodeName)
 
